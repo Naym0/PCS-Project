@@ -20,3 +20,13 @@ In this project I train and test different models and see which ones perform acc
 1. **cardiovascular data.csv** <br> The raw dataset.
 2. **clean_cardiodata.csv** <br> The cleaned data set with new features from the data preprocessing steps. <br>
 3. **relevant_cardiodata.csv** <br> Dataset of the relevant data after feature selection <br>
+
+## To run locally
+1.	Download the zipped repository.
+2.	Unzip the downloaded folder.
+3.	Having already installed Jupyter notebooks on your machine, open the command line (cmd) and type “Jupyter notebooks” to start the kernel.
+4.	Once the kernel is running and opens in the browser, navigate via the interface to where the repository is stored locally and open the .ipynb file.
+5.	Run the first cell to install all necessary libraries then run all the other cells.
+
+In the event you do not want to run the notebook locally, please use the .html document in the repository. It contains the Jupyter notebook with all the cells run with the output visible.
+
